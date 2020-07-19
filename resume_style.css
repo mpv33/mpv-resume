@@ -130,9 +130,10 @@ section:nth-child(2n + 1) {
     height: auto;
     width: 100%;
    border: 2px black solid;
- background-image:linear-gradient(white,cyan,grey,white) ; 
+ margin-left: 10px;
+ background-image:linear-gradient(white,red,grey,blue) ; 
 
-	color:black;
+	color:white;
 	overflow-wrap: break-word;
 }
 
