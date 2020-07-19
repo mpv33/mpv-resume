@@ -131,9 +131,9 @@ section:nth-child(2n + 1) {
     width: 100%;
    border: 2px black solid;
  margin-left: 10px;
- background-image:linear-gradient(white,red,grey,blue) ; 
+ background-image:linear-gradient(red,white,grey,blue) ; 
 
-	color:white;
+	color:black;
 	overflow-wrap: break-word;
 }
 
