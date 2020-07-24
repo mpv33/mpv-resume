@@ -119,6 +119,7 @@ section:nth-child(2n + 1) {
 
 
 
+
 /*About Section*/
 
 #about {
@@ -126,13 +127,13 @@ section:nth-child(2n + 1) {
 
 }
 #p1{
-
+    font-size:20px;
     height: auto;
     width: 100%;
-   border: 2px black sold;
-   background-color: yellow;
-   color:black;
-   overflow-wrap: break-word;
+	border: 2px black solid;
+	color:black;
+	background-color: yellow;
+	overflow-wrap: break-word;
 }
 
 
