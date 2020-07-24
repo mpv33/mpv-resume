@@ -130,6 +130,7 @@ section:nth-child(2n + 1) {
     height: auto;
     width: 100%;
    border: 2px black sold;
+   background-color: yellow;
    color:black;
    overflow-wrap: break-word;
 }
