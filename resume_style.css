@@ -126,13 +126,13 @@ section:nth-child(2n + 1) {
     position: relative;
 
 }
-#p1{
+#p{
     font-size:20px;
     height: auto;
-    width: 100%;
+    width: 90%;
 	border: 2px black solid;
 	color:black;
-	background-color: yellow;
+	background-color: white;
 	overflow-wrap: break-word;
 }
 
