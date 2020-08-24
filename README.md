@@ -2,7 +2,10 @@
 its my online resume
 live link: https://mpv33.github.io/mpv-resume/ 
 
-# Django 
+# Django  -prerequest
  pip install django
+ 
+ ***************************
  cmd: python manage.py runserver
  url: local host/mpv-resume
+ **********************************************
