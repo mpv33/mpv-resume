@@ -129,7 +129,7 @@ section:nth-child(2n + 1) {
 #p{
     font-size:20px;
     height: auto;
-    width: 90%;
+    width: 80%;
 	border: 2px black solid;
 	color:black;
 	background-color: white;
